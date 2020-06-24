@@ -98,5 +98,4 @@ var displayRepos = function (repos, searchTerm) //the arguments are referring to
     }
 }
 
-
 userFormEl.addEventListener("submit", formSubmitHandler);
